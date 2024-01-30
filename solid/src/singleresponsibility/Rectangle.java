@@ -1,6 +1,6 @@
-package singleton;
+package singleresponsibility;
 
-public class Rectangle implements Shape{
+class Rectangle implements Shape{
     int width;
     int height;
 

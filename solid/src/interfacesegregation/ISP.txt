@@ -1,0 +1,2 @@
+The class should not be forced to implement interfaces it does not use.
+it's better to have multiple smaller, specific interfaces than a large, monolithic one.

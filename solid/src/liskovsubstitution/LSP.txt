@@ -1,0 +1,2 @@
+objects of a superclass should be able to be replaced with
+objects of a subclass without affecting the correctness of the program.

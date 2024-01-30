@@ -1,6 +1,6 @@
-package singleton;
+package singleresponsibility;
 
-public class Circle implements Shape{
+class Circle implements Shape{
     int radius;
     public Circle(int radius){
         this.radius = radius;
